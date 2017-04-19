@@ -1,7 +1,9 @@
 Role Name
 =========
 
-A brief description of the role goes here.
+An role for installing nmap on ubuntu system.
+
+todo...
 
 Requirements
 ------------
